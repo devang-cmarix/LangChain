@@ -1,0 +1,22 @@
+# fastapi
+# uvicorn[standard]
+# python-multipart
+# pydantic
+# qdrant-client
+# langchain>=0.0.300    # or compatible recent version
+# sentence-transformers
+# transformers
+# torch                # lightweight: use CPU build if needed
+# python-dotenv
+# PyMuPDF              # this is the 'fitz' package
+# streamlit
+# requests
+# tqdm
+
+gensim>=4.0.0
+qdrant-client
+python-dotenv
+PyMuPDF
+fastapi
+uvicorn[standard]
+tqdm

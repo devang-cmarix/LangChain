@@ -1,0 +1,11 @@
+models/
+pdf_store/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+logs/
+lang_chain_1.ipynb
+scraped_texts/
+new.py
